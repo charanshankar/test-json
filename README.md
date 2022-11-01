@@ -1,2 +1,2 @@
 # test-json
-Test repo
+This repo consists sample json files
